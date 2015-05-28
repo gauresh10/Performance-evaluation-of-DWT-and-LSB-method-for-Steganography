@@ -21,4 +21,4 @@ Conclusion:
 
 Paper Publication:
 --------------------------------------------------
-[PAPER](https://github.com/gauresh10/IMAGE_STEGANOGRAPHY_DWT_METHOD/blob/master/paper/PAPER.pdf)
+[PAPER](https://github.com/gauresh10/Performance-evaluation-of-DWT-and-LSB-method-for-Steganography/blob/master/PAPER/V5I3-0437.pdf)

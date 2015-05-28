@@ -14,7 +14,8 @@ Steps:
 
 Results:
 ---------------------------------------
-
+Comparative analysis
+![image](https://github.com/gauresh10/Performance-evaluation-of-DWT-and-LSB-method-for-Steganography/blob/master/IMAGES/results.PNG)
 
 Conclusion:
 -----------------------------------------------

@@ -9,7 +9,8 @@ Steps:
 1. Unzip the code file.
 2. Open the LSB_METHOD.m or DWT_METHOD.m file in matlab.
 3. Input the cover image and secret image of same size.
-4. Press F5 to see the output.
+4. Make sure that the codes and the images are in the same directory. 
+5. Press F5 to see the output.
 
 
 Results:

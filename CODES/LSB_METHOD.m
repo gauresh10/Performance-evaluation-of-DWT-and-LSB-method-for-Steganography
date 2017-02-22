@@ -21,7 +21,7 @@ distImg = double(E);   %extracted image
 error = origImg - distImg;
 MSE = sum(sum(error .* error)) / (M * N);
 if(MSE > 0)
-    PSNR = 10*log10(M*N./MSE);
+    PSNR = 10*log10(255./MSE);
 else
     PSNR = 99;
 end
